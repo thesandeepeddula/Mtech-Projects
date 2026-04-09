@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/sande_agwrmn5/Documents/VSCode2025/mlops-housing/mlruns/121065011982621124/models/m-53445eff8a2d4c498c00d659013e6e88/artifacts
+creation_timestamp: 1754458236638
+experiment_id: '121065011982621124'
+last_updated_timestamp: 1754458239445
+model_id: m-53445eff8a2d4c498c00d659013e6e88
+model_type: null
+name: model
+source_run_id: efeba12cd93544efaea29f156c19270d
+status: 2
+status_message: null

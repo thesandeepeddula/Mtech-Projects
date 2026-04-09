@@ -1,0 +1,8 @@
+2025-08-06 14:29:27,706 INFO {'timestamp': '2025-08-06T14:29:27.706213', 'input': {'MedInc': 1.5, 'HouseAge': 15.0, 'AveRooms': 5.2, 'AveBedrms': 1.0, 'Population': 1200.0, 'AveOccup': 3.0, 'Latitude': 34.05, 'Longitude': -118.24}, 'prediction': np.float64(1.165)}
+2025-08-06 21:49:22,112 INFO {'timestamp': '2025-08-06T21:49:22.112498', 'input': {'MedInc': 3.5, 'HouseAge': 25.0, 'AveRooms': 6.0, 'AveBedrms': 1.0, 'Population': 1200.0, 'AveOccup': 3.0, 'Latitude': 34.2, 'Longitude': -118.4}, 'prediction': np.float64(1.643)}
+2025-08-06 21:52:36,731 INFO {'timestamp': '2025-08-06T21:52:36.731724', 'input': {'MedInc': 3.5, 'HouseAge': 25.0, 'AveRooms': 6.0, 'AveBedrms': 1.0, 'Population': 1200.0, 'AveOccup': 3.0, 'Latitude': 34.2, 'Longitude': -118.4}, 'prediction': np.float64(1.643)}
+2025-08-10 11:55:03,128 ERROR Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+

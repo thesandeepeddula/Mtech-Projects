@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/sande_agwrmn5/Documents/VSCode2025/mlops-housing/mlruns/121065011982621124/models/m-a4a71f8f5519457fad38758f8004ec50/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-a4a71f8f5519457fad38758f8004ec50
+model_size_bytes: 724
+model_uuid: m-a4a71f8f5519457fad38758f8004ec50
+prompts: null
+run_id: fad81abf2e2f455aa31e3cc4909d0f38
+utc_time_created: '2025-08-06 05:41:15.132821'

@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/sande_agwrmn5/Documents/VSCode2025/mlops-housing/mlruns/121065011982621124/5ba5d755cd874b47b84481b2e35503c1/artifacts
+end_time: 1754458881850
+entry_point_name: ''
+experiment_id: '121065011982621124'
+lifecycle_stage: active
+run_id: 5ba5d755cd874b47b84481b2e35503c1
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754458878999
+status: 3
+tags: []
+user_id: sande_agwrmn5

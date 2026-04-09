@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/sande_agwrmn5/Documents/VSCode2025/mlops-housing/mlruns/121065011982621124/fad81abf2e2f455aa31e3cc4909d0f38/artifacts
+end_time: 1754458878991
+entry_point_name: ''
+experiment_id: '121065011982621124'
+lifecycle_stage: active
+run_id: fad81abf2e2f455aa31e3cc4909d0f38
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754458875008
+status: 3
+tags: []
+user_id: sande_agwrmn5
